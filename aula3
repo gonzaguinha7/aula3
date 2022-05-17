@@ -1,0 +1,10 @@
+seque
+lista armazenam  multiplos objetos uma unica variavel
+objeto tem uma indice,quem indicas sua posicao dentro da lista 
+o indice o refere-se ao primeiro elemento de sua lista 
+
+#a funcao len() informa a quantidade  do objeto  em uma lista
+#a funcao  list  () altera  o tipo de um objetivo par list e tambem para criar uma lista
+sintoxe para acessarar um objertoi é:variavel[indice]
+o primeiro objeto das lista em sempre o valor do indice 0.
+#pinte(minhalist
